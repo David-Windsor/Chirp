@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Chirp</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+    <string name="login_greeting" />
+    <string name="login_registration_text">New? Register here!</string>
+    <string name="login_button_prompt">Login</string>
+    <string name="login_failed_toast_message">Invalid Email or password, please try again or register.</string>
+    <string name="reg_email_hint">New Email</string>
+    <string name="reg_password_hint">New Password</string>
+    <string name="reg_button_text">Register!</string>
+    <string name="empty_registration">Please make sure both a username and password are entered.</string>
+    <string name="invalid_email">Invalid email, try again</string>
+    <string name="invalid_password">Invalid Password. Passwords may be 24 characters max.</string>
+    <string name="reg_handle_hint">New Handle</string>
+    <string name="invalid_handle">Invalid Handle. Handles may only be u to 12 characters, and only alphanumeric.</string>
+    <string name="registration_failed">Registration failed. This can happen because the handle or email are already in use, or the server is currently down. Please try again later.</string>
+    <string name="new_user_success">Congrats on registering! Please login with your new email and password</string>
+    <string name="auto_login_file_creation_failed">AUTO LOGIN FILE CREATION FAILED. DON\'T KNOW WHY</string>
+    <string name="description_strings_suck">string descriptions suck and the warnings are annoying</string>
+    <string name="null_response">Communication with the server failed.</string>
+    <string name="server_error">Error when communicating with server. Please try again later.</string>
+    <string name="bad_error">This is embarrasing and shouldn\'t have happened.</string>
+    <string name="watchlist">Watchlist</string>
+    <string name="logout">Logout</string>
+    <string name="image_field_description">warnings are annoying</string>
+    <string name="chirp_invalid_message">We aren\'t like twitter, chirps must be 281 characters less and can\'t be empty.</string>
+    <string name="new_chirp_hint">281 characters, because why stop at 280?</string>
+    <string name="new_post_success">Chirp posted successfully</string>
+    <string name="watchlist_hint">Enter the handle of the user you want to watch</string>
+    <string name="add">Add to list</string>
+    <string name="add_watchlist_error">Adding failed. Either the user doesn\'t exist or the servers are experiancing difficulties</string>
+    <string name="no_such_user">No user by this handle found</string>
+</resources>
